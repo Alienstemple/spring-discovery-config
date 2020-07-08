@@ -2,4 +2,4 @@ db:
   url: jdbc:postgresql://localhost:5432/player
 
 player:
-  max-playlists: 100
+  max-playlists: 101
